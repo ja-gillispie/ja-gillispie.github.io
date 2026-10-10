@@ -1,1 +1,13 @@
+@font-face {
+  font-family: 'Reforma';
+  src: url('ja-gillispie.github.io/fonts/reforma.woff2') format('woff2'),
+  font-weight: normal;
+  font-style: normal;
+}
 
+body {
+    font-family: 'Reforma';
+    color: #100E20;
+    background-color: #F5EBDE;
+    text-align: center;
+}
